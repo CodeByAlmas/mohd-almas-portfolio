@@ -6,7 +6,7 @@ This repository contains my personal **portfolio website** — designed to showc
 ---
 
 ## 🌟 Live Portfolio
-🔗 [Visit My Portfolio](https://your-lovable.dev-link-here)  
+🔗 [Visit My Portfolio](https://almas-dev.lovable.app/#)  
 📄 [Download My Resume](resume/Mohd_Almas_ATS_Resume.pdf)
 
 ---
